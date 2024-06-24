@@ -38,6 +38,7 @@ wildcards = "warn"
 skip = [
     { name = "bitflags", version = "1" },
     { name = "idna", version = "<0.4" },
+    -----------------------------------
     { name = "socket2", version = "0.4" },
     { name = "syn", version = "1" },
     { name = "toml_edit", version = "0.19" },
