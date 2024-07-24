@@ -1,4 +1,4 @@
-# H44/
+# H4
 targets = [
     { triple = "x86_64-unknown-linux-gnu" },
     { triple = "i686-unknown-linux-gnu" },
